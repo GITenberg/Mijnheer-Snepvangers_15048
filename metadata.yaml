@@ -1,0 +1,30 @@
+_repo: Mijnheer-Snepvangers_15048
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15048-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baekelmans, Lode
+    alias: Baekelmans, Ludovicus Henricus
+    birthdate: 1879
+    deathdate: 1965
+    gutenberg_agent_id: '5818'
+    url: http://www.gutenberg.org/2009/agents/5818
+    wikipedia:
+    - http://www.dbnl.org/auteurs/auteur.php?id=baek004
+    - http://eo.wikipedia.org/wiki/Lode_Baekelmans
+description: ''
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15048'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flemish fiction'
+- !lcc 'PT'
+title: Mijnheer Snepvangers
+url: http://www.gutenberg.org/ebooks/15048
