@@ -15,6 +15,8 @@ creator:
     - http://www.dbnl.org/auteurs/auteur.php?id=baek004
     - http://eo.wikipedia.org/wiki/Lode_Baekelmans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15048#Mijnheer-Snepvangers
 gutenberg_issued: '2005-02-14'
 gutenberg_type: Text
 identifiers:
